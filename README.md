@@ -1,6 +1,6 @@
 # vagrant
 
-danmikita/centos 
+From HashiCorp Atlas - danmikita/centos 
 
 A standard Cent OS 6.4 box with Puppet, Chef, Virtual Box Guest Additions, and Oracle XE.
 
